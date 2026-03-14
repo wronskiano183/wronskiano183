@@ -1,73 +1,52 @@
-
 # 👋 Hi, I'm Gerardo Mendoza Fabian
 
+💻 Computer Science Engineering Student from Mexico 🇲🇽  
+Passionate about **Programming, Cybersecurity, Networks, and Web Development**.
 
-💻 Computer Science student passionate about **Programming, Cybersecurity, Networks and Web Development**.  
 🚀 I enjoy building projects that combine **theory with real-world applications**.
 
 ---
 
-## 🚀 About Me
+## 💻 Tech Stack
 
-- 🎓 computer science engineer student
-- 🔐 Interested in **Cybersecurity and Cryptography**
-- 🌐 Interested in **Web Development (Frontend & Backend)**
-- 📊 Learning **Data Mining and Data Analysis**
-- 🇲🇽 Living in **Mexico**
+**Languages:**  
+Python • PHP • C • C++ • Kotlin • JavaScript • Java
 
-## 🌎 Languages
+**Web:**  
+HTML5 • CSS3 • JavaScript • Django • Laravel • Angular • Bootstrap
 
-- 🇲🇽 Spanish — Native
-- 🇺🇸 English — Intermediate
+**Databases:**  
+MySQL • MariaDB
+
+**Networking:**  
+Cisco Packet Tracer simulations and physical network configuration
+
+**Tools:**  
+Git • GitHub • XAMPP • Linux • Scrapy • Plotly
 
 ---
 
-## 💻 Technologies & Tools
+## 📚 Projects
 
-### Programming Languages
-Python, PHP, C, C++, Kotlin, JavaScript, MATLAB
+- Development of a **CRUD system for hotel management**.
+- Creation of a **school registration system** using **Angular (frontend)** and **Django (backend)**.
+- Implementation of **concurrency algorithms in Java using mutexes and semaphores**.
+- **Simulation and configuration of IPv4 and IPv6 networks with multiple routers**, both in **Cisco Packet Tracer and real physical network environments**.
+- Development of **web scraping and data automation tools**.
 
-### Web Technologies
-HTML5, CSS3, JavaScript
+---
 
-### Frameworks
-Django, Bootstrap, Angular, Laravel
+## 🌎 Languages
+Spanish (Native) • English (Intermediate)
 
-### Databases
-MariaDB, MySQL
-
-### Data & Visualization
-Plotly, Data Analysis
-
-### Networking
-Network simulation and configuration using Cisco Packet Tracer, as well as practical implementation in physical network environments
-
-### Web Scraping
-Scrapy
-
-### Operating Systems
-windows and Linux
-
-### Development Tools
-Git, GitHub, XAMPP
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wronskiano183&layout=compact)
-
+---
 
 ## 📊 GitHub Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wronskiano183&layout=compact)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=wronskiano183&theme=highcontrast)](https://git.io/streak-stats)
-
-## 🌱 Currently
-
-- Learning new technologies every day
-- Exploring **Data Mining and Data Analysis**
-- Improving my skills in **Web Development and Cybersecurity**
-
-💡 Always learning, always improving, and always ready to give my 100%.
-
 
 ---
 
-⭐ Always learning new technologies and building interesting projects.
-
+💡 *Always learning new technologies and building interesting projects.*
