@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Gerardo Mendoza Fabian
 
-💻 Computer Science Engineering Student from Mexico 🇲🇽  
+Computer Science Engineering Student from Mexico 🇲🇽  
 Passionate about **Programming, Cybersecurity, Networks, and Web Development**.
 
-🚀 I enjoy building projects that combine **theory with real-world applications**.
+I enjoy building projects that combine **theory with real-world applications**.
 
 ---
 
-## 💻 Tech Stack
+##Tech Stack
 
 **Languages:**  
 Python • PHP • C • C++ • Kotlin • JavaScript • Java
@@ -26,7 +26,7 @@ Git • GitHub • XAMPP • Linux • Scrapy • Plotly
 
 ---
 
-## 📚 Projects
+##Projects
 
 - Development of a **CRUD system for hotel management**.
 - Creation of a **school registration system** using **Angular (frontend)** and **Django (backend)**.
@@ -36,7 +36,7 @@ Git • GitHub • XAMPP • Linux • Scrapy • Plotly
 
 ---
 
-## 🌎 Languages
+##Languages
 Spanish (Native) • English (Intermediate)
 
 ---
@@ -49,4 +49,4 @@ Spanish (Native) • English (Intermediate)
 
 ---
 
-💡 *Always learning new technologies and building interesting projects.*
+*Always learning new technologies and building interesting projects.*
