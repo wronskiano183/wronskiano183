@@ -36,7 +36,8 @@ Git • GitHub • XAMPP • Linux • Scrapy • Plotly
 
 ---
 
-## Languages
+## Languagess
+
 Spanish (Native) • English (Intermediate)
 
 ---
@@ -49,4 +50,4 @@ Spanish (Native) • English (Intermediate)
 
 ---
 
-*Always learning new technologies and building interesting projects.*
+_Always learning new technologies and building interesting projects._
